@@ -3,6 +3,9 @@
   "message": "TESTING VERSION",
   "valid_keys": {
     "VAL-BOULIZ": {"duration": 1500},
-    "VAL-TRIAL": {"duration": 600}
+    "VAL-TRIAL": {"duration": 600},
+    "VAL-BOULIZ-LIFE-KOPQA-2941S": {"duration": 0, "max_uses": 1},
+    "VAL-BOULIZ-LIFE-KOHO0-2D4FS": {"duration": 0, "max_uses": 1},
+    "VAL-BOULIZ-LIFE-DKO9F-F3U63": {"duration": 0, "max_uses": 1}
   }
 }
