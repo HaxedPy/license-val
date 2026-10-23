@@ -1,1 +1,7 @@
-
+{
+  "status": "active",
+  "message": "TESTING VERSION",
+  "valid_keys": {
+    "VAL-BOULIZ": {"duration": 1500}
+  }
+}
